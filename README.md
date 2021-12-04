@@ -1,2 +1,2 @@
-# Brain-Tumor-Detection-CNN
-Simple Convolutional Neural Network to identify MRI images with Brain Tumors
+# Final Year Reseach Project in Brain Tumor Segmentation
+3d U-net architecture used to segment MRI images with Brain Tumors
